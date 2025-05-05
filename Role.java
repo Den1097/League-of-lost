@@ -1,0 +1,15 @@
+public enum Role {
+    Enchanter,
+    Catcher,
+    Juggernaur,
+    Diver,
+    Burst,
+    BattleMage,
+    Artillery,
+    Marksman,
+    Assassin,
+    Skirmisher,
+    Vanguard,
+    Warden,
+    Specialist,
+}
